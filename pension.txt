@@ -1,0 +1,56 @@
+PF // Pension No*:  HIL EPF Trust-GN/GGN/5572/568439
+
+HINDUSTAN INSTRUMENTS LIMITED EMPLOYEES PROVIDENT
+Establishment Code : GNGGN0005572
+GNGGN00055720000568439 
+
+GNGGN000557200568439 
+GNGGN0005572000
+Balance of PF as on 05.09.2022 
+Interest Rate : 8.10 %
+Employee Code : 52073839 
+Employee Name : SATHIYA MOHAN G 
+PF Number : 0000568439 
+Fathers Name : Gunasekaran T 
+EPFO Pension Num 000000000000000 
+Nominee Name 1: Sathana S 
+UANNO: 
+Date of Joining: 14.04.2022 
+Nominee Name 2: Membership 
+Date: 14.04.2022 D
+ate of Birth : 29.03.198
+
+DXC: PYBOM00130150001066349
+
+
+
+Sr.No	Member Id	Establishment Name	Establishment ID	DOJ EPF	DOE EPF	DOJ EPS	DOE EPS	DOJ FPS	DOE FPS
+1	PYKRP00521850000000297	ADODIS TECHNOLOGIES PVT. LTD	PYKRP0052185000	20/05/2013	15/10/2014	20/05/2013	15/10/2014	NOT AVAILABLE	NOT AVAILABLE
+2	PYBOM00100880000277174	INFOSYS LIMITED	PYBOM0010088000	08/12/2014	23/09/2019	08/12/2014	23/09/2019	NOT AVAILABLE	NOT AVAILABLE
+3	MHBAN00484750002260380	TATA CONSULTANCY SERVICES LIMITED	MHBAN0048475000	03/10/2019	24/01/2020	03/10/2019	24/01/2020	NOT AVAILABLE	NOT AVAILABLE
+4	PYBOM00130150001066349	EIT SERVICES INDIA PRIVATE LIMITED	PYBOM0013015000	07/01/2020	31/03/2022	07/01/2020	31/03/2022	NOT AVAILABLE	NOT AVAILABLE
+
+From <https://unifiedportal-mem.epfindia.gov.in/memberinterface/profile/viewmember/viewmemberidpage?_HDIV_STATE_=6-7-DF0D0204714EC4BDE1BD44B8C7582716> 
+
+
+
+Kindly follow the below process for Transferring your PF and Pension to HCLT account. Before raising the request do complete your KYC and even ask previous employer to update DOE in the UAN portal. To merge PF and Pension accounts kindly follow the below process EPFO steps for Transfer IN: Login with your current UAN Login with your current UAN : and password Go to Online Services Go to One Claim Transfer PF Account #(trust) – mention GN/GGN/5572/00 (Refer to ESS PORTAL(PF STATEMENT) Click Present Employer /previous employer (radio button) Mention Previous UAN # click on GET Details Select the check box AND Click on GET OTP (OTP will come in your registered mobile #) >> Enter OTP and SUBMIT If your PF was in previous Trust, then only download form 13 from EPFO and send to below address We will attest and send it to your previous trust Address to send your forms HCL Technologies Ltd PF Department, 3rd Floor, Lotus Business Park, Tower B, Sec-127, Noida-201304 We will get the form attested and send to previous PF trust you will get auto mailer as soon as it is recorded in our system. If you have applied for PF Transfer from the EPFO portal and if the same has been successfully submitted then do keep a check in the claim status from the EPFO portal.
+
+From <https://teams.microsoft.com/multi-window/?agent=electron&version=22073101005> 
+
+
+
+
+
+Name of Establishment(As per PAN) :	HCL TECHNOLOGIES LIMITED	Establishment Code :	GNGGN0005572000
+PAN Status :	VERIFIED		
+Section Applicable :	OTHER ESTABLISHMENTS IN WHICH EMPLOYING 20 OR MORE PERSONS AND NOTIFIED BY THE CENTRAL GOVT.	Primary Business Activity :	ELEC, MECH OR GEN ENGG PRODUCTS
+ESIC CODE :			
+Ownership Type :	Public Ltd Company / Joint Stock Company	Date Of Setup Of Establishment :	01-JUN-1983
+Address :	PLOT NO. 3, UDYOG VIHAR PHASE-I	Pin Code :	122016
+City :	GURGAON	District :	GURGAON
+State :	HARYANA	Country :	India
+EPFO Office Name :	GURGAON	EPFO Office Address :	Bhavishyanidhi Bhawan,Plot No.43, Sector 44, Institutional Area,
+Zone :	HARYANA AND RAJASTHAN	Region :	HR - GURGAON
+
+From <https://unifiedportal-epfo.epfindia.gov.in/publicPortal/no-auth/misReport/home/loadEstSearchHome> 
