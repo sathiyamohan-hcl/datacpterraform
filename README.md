@@ -1,1 +1,2 @@
-Interview Sample code test quries.
+Interview sample code test scenarios
+.
